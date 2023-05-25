@@ -1,0 +1,29 @@
+  
+body{
+
+  height: 100vh;
+
+  display: auto;
+
+  justify-content: center;
+
+  background-color: #e2e2e2;
+}
+h1{
+  
+  display:block ;
+  text-align: center;
+  color:#eb608c;
+}
+p{
+  text-align: left;
+  
+}
+h2{
+  display:block ;
+  text-align: center;
+  color:#eb608c;
+}
+img{
+  display: auto;
+}
